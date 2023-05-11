@@ -1,5 +1,5 @@
 # Instacart-Python
-
+![Instacart_Logo](https://github.com/marcela-1990/Instacart-Python/assets/133106624/90367547-74b7-441d-812c-284c1f077d4c)
 This is a data analytics Instacart Grocery Basket Analysis with Python as part of the Careerfoundry Data Analytics course.
 
 # Objective
