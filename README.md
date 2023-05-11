@@ -14,6 +14,14 @@ Customer data set was created and included for the purpose of this project.
 
 [Instacart Data Set](https://www.instacart.com/datasets/grocery-shopping-2017)
 
+# Tools
+For this project Python and Excel have been used. The following libraries were used in python:
+
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Scipy
 
 
 
