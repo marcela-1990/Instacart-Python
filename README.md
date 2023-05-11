@@ -9,7 +9,9 @@ Instacart is an online grocery store that operates through an app. Although, the
 The purpose of this project was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 # Data
-An open-source data sets from Instacart have been used for analysis that includes Orders data set, order_products data set, products data set, departments data set.Customer data set was created and included for the purpose of this project.
+An open-source data sets from Instacart have been used for analysis that includes Orders data set, order_products data set, products data set, departments data set.
+Customer data set was created and included for the purpose of this project.
+
 [Instacart Data Set](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 
